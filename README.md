@@ -1,4 +1,5 @@
-# LISERIUM
+# LISERIUM.COM
+
 
 > A pocket-sized retro synth that lives in a single HTML file.
 
