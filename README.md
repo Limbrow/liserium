@@ -1,4 +1,4 @@
-# LISERIUM.COM
+# LISERIUM
 
 
 > A pocket-sized retro synth that lives in a single HTML file.
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://limbrow.github.io/liserium/"><strong>▶ Try it live</strong></a>
+  <a href="https://liserium.com/"><strong>▶ Try it live</strong></a>
   ·
   <a href="#features">Features</a>
   ·
